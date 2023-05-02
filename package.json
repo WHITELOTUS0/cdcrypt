@@ -1,0 +1,22 @@
+{
+  "name": "cdcrypt",
+  "version": "1.0.0",
+  "description": "Encrypts and decrypts a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WHITELOTUS0/cdcrypt.git"
+  },
+  "keywords": [
+    "crypt"
+  ],
+  "author": "GloRRY SIBO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WHITELOTUS0/cdcrypt/issues"
+  },
+  "homepage": "https://github.com/WHITELOTUS0/cdcrypt#readme"
+}
