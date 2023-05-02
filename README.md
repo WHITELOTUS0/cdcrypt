@@ -19,7 +19,7 @@ npm install cdcrypt
  The example usage at the bottom of the code shows how to use the **encrypt** and **decrypt** functions. The original text is encrypted and then decrypted, and the original and decrypted texts are logged to the console for verification
 
 ### Example Usage
-```
+```javascript
 const cdcrypt = require("cdcrypt")
 
 
