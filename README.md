@@ -2,8 +2,8 @@
 
 ## This package encrpts and decrypts data(string format)
 
-## Installatio
-```properties
+## Installation
+```zsh
 npm install cdcrypt
 ```
 
