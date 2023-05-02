@@ -9,7 +9,7 @@ npm install cdcrypt
 
 ## How it works
 
- It uses the *crypto* module built into Node.js to perform AES-256-CBC encryption and decryption. 
+ It uses the **crypto** module built into Node.js to perform AES-256-CBC encryption and decryption. 
  It has two functions: **encrypt** and **decrypt**
 
  The **encrypt** function takes a string as input and returns an object with two properties: **iv**, which is the initialization vector used in the encryption process, and **encryptedData**, which is the encrypted data as a hex string
